@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+/* aw-wizard-navigation-bar.horizontal.small ul.steps-indicator li:not(:last-child):before{background: rgb(47, 255, 64) !important; height: 4px !important;}
+.step-indicator{background: rgb(167, 167, 167) !important;}
+.done .step-indicator{background: rgb(36, 248, 82) !important;}
+.current .step-indicator{background: rgb(31, 151, 231) !important;} */
+.centered-content {
+  margin: auto;
+  text-align: center;
+}
